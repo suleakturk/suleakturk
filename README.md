@@ -19,7 +19,7 @@ I build scalable, high-performance web systems with a focus on architecture, per
 
 React · Next.js · TypeScript
 .NET · REST APIs
-PostgreSQL · Firebase
+PostgreSQL 
 Tailwind · ShadCN · Ant Design
 
 ---
