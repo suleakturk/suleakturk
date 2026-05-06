@@ -28,3 +28,10 @@ Tailwind · ShadCN · Ant Design
 
 Performance · Scalability · Architecture · Simplicity
 
+---
+
+## 📫 Contact
+
+Istanbul, Turkey  
+LinkedIn: https://linkedin.com/in/suleakturk
+
