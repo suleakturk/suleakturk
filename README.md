@@ -1,16 +1,30 @@
-## Hi there 👋
+# Şule Aktürk
 
-<!--
-**suleakturk/suleakturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer
 
-Here are some ideas to get you started:
+I build scalable, high-performance web systems with a focus on architecture, performance, and product clarity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Experience
+
+* Leading frontend architecture across SaaS, enterprise, and AI-driven platforms
+* Building production-grade systems with Next.js and TypeScript
+* Designing end-to-end flows with performance and usability in mind
+* Working closely with backend, AI, and product teams
+
+---
+
+## 🧩 Stack
+
+React · Next.js · TypeScript
+.NET · REST APIs
+PostgreSQL · Firebase
+Tailwind · ShadCN · Ant Design
+
+---
+
+## 🎯 Focus
+
+Performance · Scalability · Architecture · Simplicity
+
